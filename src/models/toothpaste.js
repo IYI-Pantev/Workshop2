@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 import { Product } from './product.js';
 import { Gender } from './gender.js';
 
